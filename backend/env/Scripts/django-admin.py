@@ -1,4 +1,4 @@
-#!C:\Users\Abir\OneDrive\Bureau\Bloom\backend\env\Scripts\python.exe
+#!C:\Users\Abir\projects\Bloom\backend\env\Scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
